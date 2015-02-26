@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA212: Linear Algebra II"
+course_description: "A review of linear algebra, building up to the study of row operations, the factorization of matrices, eigenvalues, eigenvectors, spectral theorem, and vector spaces."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Basics of Linear Algebra** <span id="1"></span> 
 *This unit serves as a review of some of the material covered in Linear
 Algebra I, including linear equations, matrices, and determinants. 

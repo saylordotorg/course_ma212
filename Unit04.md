@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA212: Linear Algebra II"
+course_description: "A review of linear algebra, building up to the study of row operations, the factorization of matrices, eigenvalues, eigenvectors, spectral theorem, and vector spaces."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Inner Product Spaces, Self-adjoint Operators and the Spectral
 Theorem for Normal Maps** <span id="4"></span> 
 *Linear algebra deals with not only Euclidean spaces but also abstract

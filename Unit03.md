@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA212: Linear Algebra II"
+course_description: "A review of linear algebra, building up to the study of row operations, the factorization of matrices, eigenvalues, eigenvectors, spectral theorem, and vector spaces."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Vector Spaces, Fields, Linear Transformations, and Markov
 Chains** <span id="3"></span> 
 *In this unit, we will begin by defining fields and discussing some

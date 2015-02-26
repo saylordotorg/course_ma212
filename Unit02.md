@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA212: Linear Algebra II"
+course_description: "A review of linear algebra, building up to the study of row operations, the factorization of matrices, eigenvalues, eigenvectors, spectral theorem, and vector spaces."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Spectral Theory** <span id="2"></span> 
 *In this unit, you will study Spectral Theory, which refers to the study
 of eigenvalues and eigenvectors of a matrix.  The name Spectral Theory

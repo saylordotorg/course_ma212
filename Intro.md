@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA212: Linear Algebra II"
+course_description: "A review of linear algebra, building up to the study of row operations, the factorization of matrices, eigenvalues, eigenvectors, spectral theorem, and vector spaces."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA212: Linear Algebra II"
 ----------------------------------------------
 
