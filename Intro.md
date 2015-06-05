@@ -241,4 +241,10 @@ Exam.
     style="display: none;"> </span><span id="cke_bm_551E"
     style="display: none;"> </span>
 
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/ma212/Unit01/)
+- [Unit 2](https://legacy.saylor.org/ma212/Unit02/)
+- [Unit 3](https://legacy.saylor.org/ma212/Unit03/)
+- [Unit 4](https://legacy.saylor.org/ma212/Unit04/)
+- [Unit 5](https://legacy.saylor.org/ma212/Unit05/)
