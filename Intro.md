@@ -265,3 +265,4 @@ Exam.
 - [Unit 3](https://legacy.saylor.org/ma212/Unit03/)
 - [Unit 4](https://legacy.saylor.org/ma212/Unit04/)
 - [Unit 5](https://legacy.saylor.org/ma212/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA212/MA212-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA212/MA212-FinalExam-Answers.html)
