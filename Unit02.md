@@ -84,7 +84,7 @@ id="2.1"></span> 
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: “[Chapter 7: Eigenvalues and
-    Eigenvectors”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Eigenvectors”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Sections 7.1–7.5. The eigenvectors and
@@ -106,7 +106,7 @@ id="2.1"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 7: Spectral
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 7.1 (pages 157–164) in its
@@ -128,7 +128,7 @@ id="2.1"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 7: Spectral
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 7.2 (pages 164–167) in its
@@ -147,7 +147,7 @@ id="2.1"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 7: Spectral
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF) 
 
     Instructions: Please work through the odd-numbered problems for
@@ -168,7 +168,7 @@ id="2.1"></span> 
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 7: Eigenvalues and
-    Eigenvectors”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Eigenvectors”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Section 7.6. Note the relationship
@@ -192,7 +192,7 @@ id="2.1"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Exercises for Chapter
-    7”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    7”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please complete calculational exercises 3 and 7 and
@@ -214,7 +214,7 @@ id="2.1"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 7: Spectral
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 7.4 (pages 173–180) in its
@@ -236,7 +236,7 @@ id="2.1"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 7: Spectral
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 7.5 (page 180) in its entirety. 
@@ -258,7 +258,7 @@ id="2.1"></span> 
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 8: Permutations and the Determinant of a
     Square
-    Matrix”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Matrix”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Chapter 8 in its entirety. Pay particular
@@ -281,7 +281,7 @@ id="2.1"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Exercises for Chapter
-    8”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    8”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please complete calculational exercises 1, 4, and 5
@@ -303,7 +303,7 @@ id="2.1"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 7: Spectral
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Sections 7.6–7.9 (pages 181–190) in their
@@ -322,7 +322,7 @@ id="2.1"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 7: Spectral
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)
 
        

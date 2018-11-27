@@ -136,7 +136,7 @@ style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill San
  <span
 style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif; font-size: 14.545454025268555px; line-height: 21.81818199157715px; -webkit-text-size-adjust: none;">√
    </span>Have read the [Saylor Student
-Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
+Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
     
  <span
 style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif; font-size: 14.545454025268555px; line-height: 21.81818199157715px; -webkit-text-size-adjust: none;">√
@@ -159,7 +159,7 @@ primary materials:
     Mathematics*](http://www.math.ucdavis.edu/~anne/linear_algebra/index.html)
 -   Brigham Young University: Kenneth Kuttler’s [*An Introduction to
     Linear
-    Algebra*](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Algebra*](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
 
    
  **Requirements for Completion:** In order to complete this course, you
@@ -242,9 +242,9 @@ Exam.
     included.  
       
      [Linear Algebra, Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)(PDF)  
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)(PDF)  
      [Linear Algebra, Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2012/01/Linear-Algebra-Solutions-Manual-Kuttler-1-30-11-OTC.pdf)Solutions
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2012/01/Linear-Algebra-Solutions-Manual-Kuttler-1-30-11-OTC.pdf)Solutions
     Manual (PDF)<span id="cke_bm_552E"
     style="display: none;"> </span><span id="cke_bm_551E"
     style="display: none;"> </span>
