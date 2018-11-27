@@ -113,7 +113,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 12: Inner Product
-    Spaces”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Spaces”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 12.1 (pages 287–289) in its
@@ -134,7 +134,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 9: Inner Product
-    Spaces”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Spaces”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Sections 9.1–9.4. Note the parallels to
@@ -158,7 +158,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 9: Inner Product
-    Spaces”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Spaces”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Section 9.5. The Gram-Schmidt process can
@@ -180,7 +180,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 12: Inner Product
-    Spaces”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Spaces”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 12.2 (pages 289–292) in its
@@ -202,7 +202,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Exercises for Chapter
-    9”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    9”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please complete calculational exercises 1, 3, and 5
@@ -225,7 +225,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 9: Inner Product
-    Spaces”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Spaces”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Section 9.6 on pages 128–132. Work
@@ -248,7 +248,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 12: Inner Product
-    Spaces”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Spaces”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Sections 12.3–12.8 (pages 292–305) in
@@ -267,7 +267,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 12: Inner Product
-    Spaces”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Spaces”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)
 
     Instructions: Please work through problems 1–3, 9, 11, 14, 16, 21,
@@ -291,7 +291,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 11: The Spectral Theorem for Normal Linear
-    Maps”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Maps”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Sections 11.1 and 11.2. Work through the
@@ -313,7 +313,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 13: Self Adjoint
-    Operators”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Operators”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Sections 13.1 and 13.2 (pages 307–312) in
@@ -336,7 +336,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 11: The Spectral Theorem for Normal Linear
-    Maps”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Maps”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Sections 11.3 and 11.4. The Spectral
@@ -360,7 +360,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 13: Self Adjoint
-    Operators”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Operators”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 13.3 (pages 312–316) in its
@@ -381,7 +381,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 13: Self Adjoint
-    Operators”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Operators”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Sections 13.4 and 13.5 (pages 317–321) in
@@ -403,7 +403,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 11: The Spectral Theorem for Normal Linear
-    Maps”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Maps”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Section 11.5. Work through the examples
@@ -428,7 +428,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 11: The Spectral Theorem for Normal Linear
-    Maps”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Maps”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Sections 11.6 and 11.7. The
@@ -453,7 +453,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Exercises for Chapter
-    11”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    11”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please complete calculational exercises 1 and 6 and
@@ -473,7 +473,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 13: Self Adjoint
-    Operators”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Operators”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Sections 13.6–13.11 (pages 322–334) in
@@ -494,7 +494,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 2: Matrices and Linear
-    Transformations”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Transformations”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)
 
     Instructions: Please work through problems 13, 15, 16, and 19 in

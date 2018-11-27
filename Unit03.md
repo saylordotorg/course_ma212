@@ -119,7 +119,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 8: Vector Spaces and
-    Fields”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Fields”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 8.1 (pages 199 and 200) in  its
@@ -141,7 +141,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 4: Vector
-    Spaces”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Spaces”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Pleaseread Sections 4.1 and 4.2. Here the notion of a
@@ -168,7 +168,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Exercises for Chapter
-    4”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    4”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please complete calculational exercises 2 and 4 and
@@ -190,7 +190,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 8: Vector Spaces and
-    Fields”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Fields”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Sections 8.2.1 and 8.2.2 (pages 200–205)
@@ -213,7 +213,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 4: Vector
-    Spaces”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Spaces”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Sections 4.3 and 4.4. Work through the
@@ -237,7 +237,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 5: Span and
-    Bases”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Bases”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Sections 5.1 and 5.2. The notions of
@@ -263,7 +263,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Exercises for Chapter
-    5”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    5”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please complete calculational exercises 2 and 5 and
@@ -286,7 +286,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 8: Vector Spaces and
-    Fields”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Fields”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 8.2.3 (page 205) in its entirety.
@@ -308,7 +308,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 5: Span and
-    Bases”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Bases”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
       
      Instructions: Please read Sections 5.3 and 5.4. Work through the
@@ -333,7 +333,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 8: Vector Spaces and
-    Fields”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Fields”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 8.3 (pages 205–219) in its
@@ -355,7 +355,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 8: Vector Spaces and
-    Fields”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Fields”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)
 
     Instructions: Please work through the odd-numbered problems for 1–25
@@ -379,7 +379,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 6: Linear
-    Maps”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Maps”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please read Sections 6.1–6.5 in their entirety.
@@ -404,7 +404,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 9: Linear
-    Transformations”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Transformations”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Sections 9.1–9.3 (pages 225–240) in their
@@ -425,7 +425,7 @@ Upon successful completion of this unit, the student will be able to:
     Links: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Chapter 6: Linear
-    Maps”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Maps”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please  read Sections 6.6 and 6.7 in their entirety.
@@ -453,7 +453,7 @@ id="3.2.3"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 9: Linear
-    Transformations”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Transformations”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 9.4 (pages 240 and 241) in its
@@ -473,7 +473,7 @@ id="3.2.3"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 9: Linear
-    Transformations”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Transformations”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)
 
     Instructions: Please click on the link above, and work through
@@ -495,7 +495,7 @@ id="3.2.3"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Exercises for Chapter
-    6”](http://www.saylor.org/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    6”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please complete calculational exercises 1, 3, and 4
@@ -518,7 +518,7 @@ id="3.2.3"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 10: Linear Transformations Canonical
-    Forms”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Forms”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Chapter 10 (pages 245–274) in its
@@ -537,7 +537,7 @@ id="3.2.3"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 10: Linear Transformations Canonical
-    Forms”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Forms”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)
 
        
@@ -561,7 +561,7 @@ id="3.2.3"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 11: Markov Chains and Migration
-    Processes”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Processes”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Chapter 11 (pages 275–286) in its
@@ -580,7 +580,7 @@ id="3.2.3"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 11: Markov Chains and Migration
-    Processes”](http://www.saylor.org/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Processes”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)
 
        
