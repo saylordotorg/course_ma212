@@ -105,7 +105,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Appendix A: The Language of Sets and
-    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Functions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)
 
      
@@ -129,7 +129,7 @@ id="1.1.2"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 1:
-    Preliminaries”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Preliminaries”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
       
      Instructions: Please read Sections 1.1–1.4 in their entirety (pages
@@ -148,7 +148,7 @@ id="1.1.2"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 1:
-    Preliminaries”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Preliminaries”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 1.5 in its entirety (pages
@@ -169,7 +169,7 @@ id="1.1.2"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: “[Chapter 2: Introduction to the Complex
-    Numbers”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Numbers”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: If you have not already downloaded the text, please
@@ -194,7 +194,7 @@ id="1.1.2"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Exercises for Chapter
-    2”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: If you have not already downloaded and saved the
@@ -222,7 +222,7 @@ id="1.1.2"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“The Fundamental Theorem of Algebra and Factoring
-    Polynomials”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Polynomials”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: If you have not already downloaded and saved the
@@ -249,7 +249,7 @@ id="1.1.2"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Exercises for Chapter
-    3”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    3”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: If you have not already downloaded and saved the
@@ -272,7 +272,7 @@ id="1.1.2"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 1:
-    Preliminaries”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Preliminaries”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Sections 1.7–1.9 (pages 20–26) in their
@@ -292,7 +292,7 @@ id="1.1.2"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 1:
-    Preliminaries”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Preliminaries”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Sections 1.10–1.13 (pages 26–33) in their
@@ -313,7 +313,7 @@ id="1.1.2"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling's *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“What Is Linear
-    Algebra?”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Algebra?”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and then read Section
@@ -336,7 +336,7 @@ id="1.1.2"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Exercises for Chapter
-    1”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    1”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: If you have not already downloaded and saved the
@@ -363,7 +363,7 @@ id="1.1.2"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Supplementary Notes on Matrices and Linear
-    Systems”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Systems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
       
      Instructions: If you have not already downloaded and saved the
@@ -387,7 +387,7 @@ id="1.1.2"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 2: Matrices and Linear
-    Transformations”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Transformations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Section 2.1 (pages 37–51) in its
@@ -407,7 +407,7 @@ id="1.1.2"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 2: Matrices and Linear
-    Transformations”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Transformations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF) 
 
     Instructions: Please work through the odd-numbered problems for
@@ -428,7 +428,7 @@ id="1.1.2"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 2: Matrices and Linear
-    Transformations”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Transformations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Sections 2.3–2.6 (pages 53–71) in their
@@ -448,7 +448,7 @@ id="1.1.2"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 2: Matrices and Linear
-    Transformations”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Transformations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)
 
     Instructions: Please work through the odd-numbered problems for 1–25
@@ -469,7 +469,7 @@ id="1.1.2"></span> 
     Link: UC Davis: Isaiah Lankham, Bruno Nachtergaele, and Anne
     Schilling’s *Linear Algebra: As an Introduction to Abstract
     Mathematics*: [“Supplementary Notes on Matrices and Linear
-    Systems”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/mat67_course_notes.pdf)
+    Systems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/mat67_course_notes.pdf)
     (PDF)  
         
      Instructions: If you have not already downloaded and saved the PDF
@@ -493,7 +493,7 @@ id="1.1.2"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 3:
-    Determinants”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Determinants”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)  
         
      Instructions: Please read Chapter 3 (pages 77–104) in its entirety.
@@ -513,7 +513,7 @@ id="1.1.2"></span> 
 
     Link: Brigham Young University: Kenneth Kuttler’s *An Introduction
     to Linear Algebra:* [“Chapter 3:
-    Determinants”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
+    Determinants”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Linear-Algebra-Kuttler-1-30-11-OTC.pdf)
     (PDF)
 
        
